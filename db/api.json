@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Go to market",
+      "status": "pending"
+    },
+    {
+      "id": 2,
+      "name": "LARAVEL Devs",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "name": "MERN Stack",
+      "status": "pending"
+    },
+    {
+      "name": "Alo",
+      "status": "pending",
+      "id": 4
+    }
+  ]
+}
